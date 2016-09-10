@@ -1,0 +1,32 @@
+{
+  "name": "redux-async-actions",
+  "version": "0.0.0",
+  "description": "simple interface for dealing with async actions in Redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidkearns/redux-async-actions.git"
+  },
+  "keywords": [
+    "redux",
+    "async-actions",
+    "actions",
+    "middleware",
+    "redux-async-actions",
+    "redux-actions",
+    "redux-middleware",
+    "flux"
+  ],
+  "author": {
+    "name": "David Kearns",
+    "url": "https://github.com/davidkearns"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidkearns/redux-async-actions/issues"
+  },
+  "homepage": "https://github.com/davidkearns/redux-async-actions#readme"
+}
