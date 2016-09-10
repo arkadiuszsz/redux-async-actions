@@ -1,6 +1,6 @@
 {
   "name": "redux-async-actions",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "simple interface for dealing with async actions in Redux",
   "main": "index.js",
   "scripts": {
