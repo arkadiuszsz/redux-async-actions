@@ -3,7 +3,7 @@
 A simple interface for working with asynchronous actions in Redux.
 
 ## Motivation
-Dispatching a function instead of an object like in [redux-thunk](https://github.com/gaearon/redux-thunk) feels weird and can make debugging difficult. This is an alternative, yet still simple, interface for dispatching actions asynchronously in Redux. The goal is to provide a more intuitive interface as well as simplify debugging by only ever dispatching plain objects.
+Dispatching a function (or any other non-plain action object) like in [redux-thunk](https://github.com/gaearon/redux-thunk) is unintuitive and can make debugging difficult. This is a simple alternative interface for dispatching actions asynchronously in Redux. The goal is to provide a more intuitive interface and also to simplify debugging by dispatching only plain action objects.
 
 ## Installation
 
